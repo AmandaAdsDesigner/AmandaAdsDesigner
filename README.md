@@ -1,16 +1,17 @@
-![Banner](ChatGPT%20Imagem%202%20de%20jul.%20de%202026%2C%2015_18_56.png)## Hi there 👋
+![Banner](ChatGPT%20Imagem%202%20de%20jul.%20de%202026%2C%2015_18_56.png)
 
-<!--
-**AmandaAdsDesigner/AmandaAdsDesigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Amanda Ads Designer 🎨
 
-Here are some ideas to get you started:
+## 👋 Sobre mim
+Bem-vindo ao meu portfólio!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou designer de anúncios e criadora de artes digitais, focada em social media e identidade visual.
+
+## 💼 O que eu faço
+- Criação de posts para Instagram
+- Artes para anúncios
+- Identidade visual
+- Logos simples e criativas
+
+## 📩 Contato
+Em breve atualizações...
