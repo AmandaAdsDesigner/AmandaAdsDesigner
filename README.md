@@ -1,16 +1,33 @@
 ![Banner](amanda.png)
-# Amanda Ads Designer 🎨
 
-## 👋 Sobre mim
-Bem-vindo ao meu portfólio!
 
-Sou designer de anúncios e criadora de artes digitais, focada em social media e identidade visual.
+# Amanda Souza
 
-## 💼 O que eu faço
-- Criação de posts para Instagram
-- Artes para anúncios
-- Identidade visual
-- Logos simples e criativas
+## 💻 Designer & Desenvolvedora
 
-## 📩 Contato
-Em breve atualizações...
+UI/UX Designer • Designer Gráfica • Desenvolvedora Web
+
+---
+
+### 🚀 Sobre mim
+Sou Designer e Desenvolvedora focada na criação de interfaces modernas, identidades visuais e experiências digitais funcionais.  
+Atuo na área de UI/UX, design gráfico e desenvolvimento web, unindo estética e usabilidade.
+
+---
+
+### 📌 Disponibilidade
+✔ Freelance  
+✔ Oportunidades em tempo integral  
+
+---
+
+### 🛠️ Áreas de atuação
+- UI/UX Design  
+- Design Gráfico  
+- Desenvolvimento Web  
+- Criação de Interfaces Responsivas  
+
+---
+
+### 📫 Contato
+📞 +55 (21) 98130-8649  
