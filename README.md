@@ -1,4 +1,4 @@
-
+![Banner](amanda.png)
 # Amanda Ads Designer 🎨
 
 ## 👋 Sobre mim
