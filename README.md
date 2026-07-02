@@ -1,4 +1,3 @@
-![Banner](ChatGPT%20Imagem%202%20de%20jul.%20de%202026%2C%2015_18_56.png)
 
 # Amanda Ads Designer 🎨
 
