@@ -1,4 +1,4 @@
-## Hi there 👋
+![Banner](ChatGPT%20Imagem%202%20de%20jul.%20de%202026%2C%2015_18_56.png)## Hi there 👋
 
 <!--
 **AmandaAdsDesigner/AmandaAdsDesigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
